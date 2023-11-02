@@ -37,10 +37,4 @@ The model was trained for 30 epochs, and it achieved an accuracy of approximatel
 If you have any questions or would like to get in touch, feel free to contact me:
 
 - Email: [ayomidedipeolu@gmail.com](mailto:ayomidedipeolu@gmail.com)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-
-## Next Steps
-
-This project is your first step in computer vision image classification. What's next? Consider expanding the dataset, experimenting with different architectures, or exploring other computer vision tasks. The possibilities are endless!
-
-Happy coding!
+- GitHub: https://github.com/AyDippy)https://github.com/AyDippy
